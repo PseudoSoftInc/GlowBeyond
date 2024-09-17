@@ -1,0 +1,11 @@
+/ecom-api/build/build-env/
+/ecom-api/.idea
+**/.idea
+/SS
+/ecom-api/config/media/
+**/__pycache__
+*.deb
+ecom-api/.vscode/launch.json
+ecom-api/.env
+ecom-api.code-workspace
+ecom-api/apps/commons/__pycache__/__init__.cpython-311.pyc
